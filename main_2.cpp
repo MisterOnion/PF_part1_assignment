@@ -18,7 +18,7 @@
 #include <iomanip> // for setw()
 using namespace std;
 
-// CHANGE SETTINGS (Lim Sir Yuean)
+// CHANGE SETTINGS 
 void changeSettings(int &x_axis, int &y_axis, int &zombies)
 {
     cout << "|*****************************************| " << endl;
