@@ -1,26 +1,17 @@
 # Alien vs. Zombie
 
-Please introduce the game here.
+The game is still in the early stages of development
 
-You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
-
-Please provide the YouTube link to your [Video Demo](https://youtube.com).
+[Video Demo](https://www.youtube.com/watch?v=Upg08YXuV2I).
 
 ## Compilation Instructions
 
-Provide instructions on how to compile your program, especially when it is non-trivial.
+Use vscode terminal or codeblock's CMD build prompt
 
-For example:
-
-vscode terminal or codeblock's CMD build prompt
-
-```
-g++ main.cpp folder1\code.cpp folder2\code.cpp ......
-```
 
 ## User Manual
 
-Please provide the user manual on how to use your program.
+Start the program and input according to the settings
 
 Please DO NOT change the Progress Log below. Leave it as it is.
 
